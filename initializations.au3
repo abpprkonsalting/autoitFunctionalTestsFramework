@@ -1,3 +1,5 @@
+#include-once
+
 #include <MsgBoxConstants.au3>
 #include "utils.au3"
 
