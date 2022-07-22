@@ -1,5 +1,6 @@
 #include-once
 
+
 Func WaitForWindow($windowsName,$windowText,$timeOut)
     Local $hWnd = WinWait($windowsName,$windowText,$timeOut)
     If ($hWnd = 0) Then
